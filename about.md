@@ -3,6 +3,7 @@ layout: post
 title: About
 ---
 
-This is an example page!
+Hi, I'm Jusnoor!
 
-Actually, it has the same layout of a post...
+this page is under construction :)
+
